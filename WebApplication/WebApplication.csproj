@@ -4,5 +4,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="ClassLibrary">
+      <HintPath>Libraries\ClassLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 
 </Project>
